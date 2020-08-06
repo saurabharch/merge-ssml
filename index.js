@@ -1,6 +1,6 @@
 /**
- * Combine multiple SSML documents into one
- * @param samples - List of SSML samples (not validated)
+ * Combine multiple SSML documents
+ * @param samples - List of SSML samples (validated)
  * ```js
  * ['<speak>one</speak>', '<speak>two</speak>', '<speak>three</speak>']
  * ```
