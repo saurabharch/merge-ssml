@@ -1,6 +1,6 @@
 {
   "name": "merge-ssml",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Combine multiple SSML documents into one",
   "main": "index.js",
   "repository": "https://github.com/Ushaflow/merge-ssml",
@@ -13,6 +13,5 @@
   ],
   "scripts": {
     "test": "node test"
-  },
-  "type": "module"
+  }
 }
